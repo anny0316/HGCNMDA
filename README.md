@@ -5,9 +5,9 @@ networkx (version == 2.2)
 Python (version == 2.7)   
 protobuf (version ==3.7.0)   
 scikit-learn (version == 0.20.3)   
-scipy (version == 1.2.1)   
-tensorflow (version == 1.13.1)
-matplotlib (version == 2.2.4)
+scipy (version == 1.2.1)   </br>
+tensorflow (version == 1.13.1)</br>
+matplotlib (version == 2.2.4)</br>
 numpy (version == 1.16.2) </br></br>
 
 data : </br>
