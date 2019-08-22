@@ -6,6 +6,9 @@ Python (version == 2.7)
 protobuf (version ==3.7.0)   
 scikit-learn (version == 0.20.3)   
 scipy (version == 1.2.1)   
+tensorflow (version == 1.13.1)
+matplotlib (version == 2.2.4)
+numpy (version == 1.16.2) </br></br>
 
 data : </br>
 &nbsp;&nbsp;&nbsp;---breast : Breast neoplasm to show the performance of top-20, top-40 and top-60, separately. </br>
