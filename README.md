@@ -7,11 +7,11 @@ protobuf (version ==3.7.0)
 scikit-learn (version == 0.20.3)   
 scipy (version == 1.2.1)   
 
-data : 
-   ---breast : Breast neoplasm to show the performance of top-20, top-40 and top-60, separately. </br>
-      ---top20 : precision and recall data for top20. </br>
-	  ---top40 : precision and recall data for top40. </br>
-	  ---top60 : precision and recall data for top60. </br>
+data : </br>
+&nbsp;&nbsp;&nbsp;---breast : Breast neoplasm to show the performance of top-20, top-40 and top-60, separately. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---top20 : precision and recall data for top20. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---top40 : precision and recall data for top40. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---top60 : precision and recall data for top60. </br>
 	  precision_recall.png </br>
 	  roc.png</br>
    ---lung : Lung neoplasm to show the performance of top-20, top-40 and top-60, separately. </br>
