@@ -20,18 +20,18 @@ data : </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---top60 : precision and recall data for top60. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;precision_recall.png </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;roc.png </br>
-&nbsp;&nbsp;&nbsp;lymp : Lymphoma to show the performance of top-20, top-40 and top-60, separately. </br>
+&nbsp;&nbsp;&nbsp;---lymp : Lymphoma to show the performance of top-20, top-40 and top-60, separately. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---top20 : precision and recall data for top20. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---top40 : precision and recall data for top40. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---top60 : precision and recall data for top60. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;precision_recall.png </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;roc.png </br>
-&nbsp;&nbsp;&nbsp;glnmda : Existing Algorithms </br>
-&nbsp;&nbsp;&nbsp;imcmda : Existing Algorithms </br>
-&nbsp;&nbsp;&nbsp;spm : Existing Algorithms </br>
-&nbsp;&nbsp;&nbsp;only : ROC curve of single disease. </br>
-&nbsp;&nbsp;&nbsp;pic : various curves. </br>
-&nbsp;&nbsp;&nbsp;train_result : Including train result, test result and violin data. </br>
+&nbsp;&nbsp;&nbsp;---glnmda : Existing Algorithms </br>
+&nbsp;&nbsp;&nbsp;---imcmda : Existing Algorithms </br>
+&nbsp;&nbsp;&nbsp;---spm : Existing Algorithms </br>
+&nbsp;&nbsp;&nbsp;---only : ROC curve of single disease. </br>
+&nbsp;&nbsp;&nbsp;---pic : various curves. </br>
+&nbsp;&nbsp;&nbsp;---train_result : Including train result, test result and violin data. </br>
 &nbsp;&nbsp;&nbsp;bio-diease-gene.csv : Diease and gene network database. </br>
 &nbsp;&nbsp;&nbsp;bio-diease-mirna.csv : Diease and miRNA network database. </br>
 &nbsp;&nbsp;&nbsp;bio-mirna-gene.csv : miRNA and gene network database. </br>
